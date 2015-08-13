@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:436688a7d6852fbd6b1dd1eec76aacd4$ -->
+<TextureAtlas imagePath="heroTowerEffect.png">
+    <SubTexture name="effect_loading0001" x="195" y="92" width="191" height="31" frameX="-5" frameY="-6" frameWidth="205" frameHeight="45"/>
+    <SubTexture name="effect_loading0002" x="199" y="2" width="195" height="43" frameX="-1" frameY="0" frameWidth="205" frameHeight="45"/>
+    <SubTexture name="effect_loading0003" x="2" y="92" width="191" height="43" frameX="-5" frameY="0" frameWidth="205" frameHeight="45"/>
+    <SubTexture name="effect_loading0004" x="195" y="47" width="191" height="43" frameX="-5" frameY="0" frameWidth="205" frameHeight="45"/>
+    <SubTexture name="effect_loading0005" x="2" y="47" width="191" height="43" frameX="-5" frameY="0" frameWidth="205" frameHeight="45"/>
+    <SubTexture name="effect_loading0006" x="2" y="2" width="195" height="43" frameX="-6" frameY="0" frameWidth="205" frameHeight="45"/>
+    <SubTexture name="effect_star_explo0001" x="292" y="273" width="29" height="26" frameX="-38" frameY="-41" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0002" x="101" y="273" width="29" height="28" frameX="-38" frameY="-39" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0003" x="349" y="257" width="29" height="28" frameX="-38" frameY="-39" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0004" x="349" y="225" width="31" height="30" frameX="-37" frameY="-39" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0005" x="351" y="159" width="35" height="32" frameX="-35" frameY="-39" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0006" x="154" y="175" width="39" height="36" frameX="-33" frameY="-37" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0007" x="150" y="253" width="41" height="38" frameX="-32" frameY="-37" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0008" x="103" y="229" width="45" height="42" frameX="-30" frameY="-35" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0009" x="103" y="137" width="49" height="46" frameX="-28" frameY="-33" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0010" x="298" y="175" width="51" height="48" frameX="-27" frameY="-33" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0011" x="196" y="616" width="95" height="100" frameX="-5" frameY="-3" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0012" x="298" y="125" width="51" height="48" frameX="-27" frameY="-33" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0013" x="298" y="225" width="49" height="46" frameX="-28" frameY="-33" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0014" x="103" y="185" width="45" height="42" frameX="-30" frameY="-35" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0015" x="150" y="213" width="41" height="38" frameX="-32" frameY="-37" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0016" x="154" y="137" width="39" height="36" frameX="-33" frameY="-37" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0017" x="351" y="125" width="35" height="32" frameX="-35" frameY="-39" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0018" x="351" y="193" width="31" height="30" frameX="-37" frameY="-39" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0019" x="388" y="514" width="95" height="100" frameX="-5" frameY="-3" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0020" x="2" y="539" width="95" height="100" frameX="-5" frameY="-3" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0021" x="99" y="529" width="95" height="100" frameX="-5" frameY="-3" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0022" x="291" y="514" width="95" height="100" frameX="-5" frameY="-3" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0023" x="2" y="437" width="95" height="100" frameX="-5" frameY="-3" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0024" x="99" y="427" width="95" height="100" frameX="-5" frameY="-3" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0025" x="388" y="412" width="95" height="100" frameX="-5" frameY="-3" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0026" x="291" y="412" width="95" height="100" frameX="-5" frameY="-3" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0027" x="2" y="335" width="95" height="100" frameX="-5" frameY="-3" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0028" x="101" y="325" width="95" height="100" frameX="-5" frameY="-3" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0029" x="389" y="310" width="95" height="100" frameX="-5" frameY="-3" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0030" x="292" y="310" width="95" height="100" frameX="-5" frameY="-3" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0031" x="196" y="521" width="93" height="88" frameX="-6" frameY="-10" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0032" x="198" y="325" width="91" height="90" frameX="-7" frameY="-7" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0033" x="196" y="427" width="93" height="92" frameX="-6" frameY="-6" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0034" x="2" y="641" width="95" height="94" frameX="-4" frameY="-4" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0035" x="99" y="631" width="95" height="94" frameX="-5" frameY="-5" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0036" x="193" y="227" width="97" height="96" frameX="-4" frameY="-3" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0037" x="2" y="237" width="97" height="96" frameX="-4" frameY="-4" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0038" x="2" y="137" width="99" height="98" frameX="-3" frameY="-3" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0039" x="384" y="210" width="99" height="98" frameX="-3" frameY="-3" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0040" x="195" y="125" width="101" height="100" frameX="-2" frameY="-2" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0041" x="388" y="106" width="103" height="102" frameX="0" frameY="0" frameWidth="105" frameHeight="104"/>
+    <SubTexture name="effect_star_explo0042" x="396" y="2" width="103" height="102" frameX="0" frameY="-1" frameWidth="105" frameHeight="104"/>
+</TextureAtlas>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:a202159d828525581bc1cb01c2eba887$ -->
+<TextureAtlas imagePath="lanmoguai.png">
+    <SubTexture name="lanmoguai_attack0001" x="580" y="327" width="121" height="150" frameX="-91" frameY="-46" frameWidth="301" frameHeight="200"/>
+    <SubTexture name="lanmoguai_attack0002" x="732" y="170" width="125" height="154" frameX="-85" frameY="-43" frameWidth="301" frameHeight="200"/>
+    <SubTexture name="lanmoguai_attack0003" x="2" y="154" width="177" height="180" frameX="-37" frameY="-17" frameWidth="301" frameHeight="200"/>
+    <SubTexture name="lanmoguai_attack0004" x="247" y="2" width="217" height="198" frameX="0" frameY="0" frameWidth="301" frameHeight="200"/>
+    <SubTexture name="lanmoguai_attack0005" x="859" y="154" width="131" height="144" frameX="-54" frameY="-53" frameWidth="301" frameHeight="200"/>
+    <SubTexture name="lanmoguai_attack0006" x="2" y="2" width="243" height="150" frameX="-58" frameY="-45" frameWidth="301" frameHeight="200"/>
+    <SubTexture name="lanmoguai_attack0007" x="875" y="2" width="121" height="150" frameX="-59" frameY="-46" frameWidth="301" frameHeight="200"/>
+    <SubTexture name="lanmoguai_attack0008" x="865" y="300" width="119" height="150" frameX="-49" frameY="-46" frameWidth="301" frameHeight="200"/>
+    <SubTexture name="lanmoguai_attack0009" x="740" y="2" width="133" height="150" frameX="-92" frameY="-46" frameWidth="301" frameHeight="200"/>
+    <SubTexture name="lanmoguai_attack0010" x="143" y="360" width="135" height="150" frameX="-89" frameY="-46" frameWidth="301" frameHeight="200"/>
+    <SubTexture name="lanmoguai_run0001" x="2" y="336" width="139" height="150" frameX="-17" frameY="0" frameWidth="157" frameHeight="170"/>
+    <SubTexture name="lanmoguai_run0002" x="466" y="2" width="141" height="150" frameX="-12" frameY="0" frameWidth="157" frameHeight="170"/>
+    <SubTexture name="lanmoguai_run0003" x="732" y="326" width="131" height="150" frameX="-13" frameY="0" frameWidth="157" frameHeight="170"/>
+    <SubTexture name="lanmoguai_run0004" x="181" y="202" width="133" height="156" frameX="-4" frameY="0" frameWidth="157" frameHeight="170"/>
+    <SubTexture name="lanmoguai_run0005" x="609" y="2" width="129" height="166" frameX="-8" frameY="0" frameWidth="157" frameHeight="170"/>
+    <SubTexture name="lanmoguai_run0006" x="316" y="202" width="129" height="164" frameX="-17" frameY="0" frameWidth="157" frameHeight="170"/>
+    <SubTexture name="lanmoguai_run0007" x="447" y="320" width="131" height="158" frameX="-22" frameY="0" frameWidth="157" frameHeight="170"/>
+    <SubTexture name="lanmoguai_run0008" x="466" y="154" width="129" height="164" frameX="0" frameY="0" frameWidth="157" frameHeight="170"/>
+    <SubTexture name="lanmoguai_stand" x="597" y="170" width="133" height="155"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:91072c981088dd31ef4a8c55f55b6fa2$ -->
+<TextureAtlas imagePath="yatuci.png">
+    <SubTexture name="yatuci0001" x="393" y="2" width="115" height="196" frameX="-16" frameY="-46" frameWidth="185" frameHeight="320"/>
+    <SubTexture name="yatuci0002" x="2" y="316" width="151" height="154" frameX="-25" frameY="-65" frameWidth="185" frameHeight="320"/>
+    <SubTexture name="yatuci0003" x="238" y="2" width="153" height="196" frameX="-25" frameY="-56" frameWidth="185" frameHeight="320"/>
+    <SubTexture name="yatuci0004" x="155" y="252" width="145" height="228" frameX="0" frameY="-35" frameWidth="185" frameHeight="320"/>
+    <SubTexture name="yatuci0005" x="115" y="2" width="121" height="248" frameX="-36" frameY="-31" frameWidth="185" frameHeight="320"/>
+    <SubTexture name="yatuci0006" x="2" y="2" width="111" height="312" frameX="-28" frameY="0" frameWidth="185" frameHeight="320"/>
+</TextureAtlas>

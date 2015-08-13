@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:049cd930dec5526a34bfa9c0a13a619e$ -->
+<TextureAtlas imagePath="binghou.png">
+    <SubTexture name="binghou_attack0001" x="322" y="2" width="286" height="332" frameX="-43" frameY="-20" frameWidth="460" frameHeight="400"/>
+    <SubTexture name="binghou_attack0002" x="2" y="910" width="238" height="306" frameX="-9" frameY="-37" frameWidth="460" frameHeight="400"/>
+    <SubTexture name="binghou_attack0003" x="786" y="618" width="236" height="306" frameX="-5" frameY="-43" frameWidth="460" frameHeight="400"/>
+    <SubTexture name="binghou_attack0004" x="542" y="618" width="242" height="306" frameX="-2" frameY="-43" frameWidth="460" frameHeight="400"/>
+    <SubTexture name="binghou_attack0005" x="278" y="336" width="262" height="312" frameX="0" frameY="-44" frameWidth="460" frameHeight="400"/>
+    <SubTexture name="binghou_attack0006" x="610" y="312" width="264" height="304" frameX="-6" frameY="-51" frameWidth="460" frameHeight="400"/>
+    <SubTexture name="binghou_attack0007" x="242" y="920" width="218" height="304" frameX="-65" frameY="-2" frameWidth="460" frameHeight="400"/>
+    <SubTexture name="binghou_attack0008" x="2" y="298" width="274" height="306" frameX="-74" frameY="-36" frameWidth="460" frameHeight="400"/>
+    <SubTexture name="binghou_attack0009" x="610" y="2" width="264" height="308" frameX="-117" frameY="-43" frameWidth="460" frameHeight="400"/>
+    <SubTexture name="binghou_attack0010" x="2" y="2" width="318" height="294" frameX="-80" frameY="-54" frameWidth="460" frameHeight="400"/>
+    <SubTexture name="binghou_run" x="258" y="650" width="242" height="268" frameX="0" frameY="0" frameWidth="242" frameHeight="400"/>
+    <SubTexture name="binghou_stand" x="2" y="606" width="254" height="302" frameX="0" frameY="0" frameWidth="260" frameHeight="400"/>
+</TextureAtlas>

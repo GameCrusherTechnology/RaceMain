@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:18c24e94897e2ac39bc198d7370b8e50$ -->
+<TextureAtlas imagePath="fireBullet.png">
+    <SubTexture name="fireBullet" x="2" y="2" width="230" height="42" frameX="-2" frameY="0" frameWidth="232" frameHeight="46"/>
+</TextureAtlas>

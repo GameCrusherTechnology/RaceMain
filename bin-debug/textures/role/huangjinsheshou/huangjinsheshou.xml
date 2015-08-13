@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:54d229ce5930b5d4342c1d871ac7a1d5$ -->
+<TextureAtlas imagePath="huangjinsheshou.png">
+    <SubTexture name="huangjinsheshou_attack0001" x="102" y="296" width="98" height="143" frameX="-34" frameY="-2" frameWidth="146" frameHeight="149"/>
+    <SubTexture name="huangjinsheshou_attack0002" x="234" y="149" width="104" height="141" frameX="-33" frameY="-4" frameWidth="146" frameHeight="149"/>
+    <SubTexture name="huangjinsheshou_attack0003" x="118" y="149" width="114" height="145" frameX="-26" frameY="0" frameWidth="146" frameHeight="149"/>
+    <SubTexture name="huangjinsheshou_attack0004" x="2" y="2" width="136" height="145" frameX="-10" frameY="0" frameWidth="146" frameHeight="149"/>
+    <SubTexture name="huangjinsheshou_attack0005" x="140" y="2" width="130" height="145" frameX="-13" frameY="0" frameWidth="146" frameHeight="149"/>
+    <SubTexture name="huangjinsheshou_attack0006" x="272" y="2" width="124" height="145" frameX="0" frameY="0" frameWidth="146" frameHeight="149"/>
+    <SubTexture name="huangjinsheshou_attack0007" x="2" y="149" width="114" height="145" frameX="-8" frameY="0" frameWidth="146" frameHeight="149"/>
+    <SubTexture name="huangjinsheshou_attack0008" x="338" y="410" width="100" height="143" frameX="-27" frameY="-2" frameWidth="146" frameHeight="149"/>
+    <SubTexture name="huangjinsheshou_attack0009" x="400" y="555" width="92" height="143" frameX="-34" frameY="-2" frameWidth="146" frameHeight="149"/>
+    <SubTexture name="huangjinsheshou_attack0010" x="198" y="568" width="94" height="143" frameX="-35" frameY="-2" frameWidth="146" frameHeight="149"/>
+    <SubTexture name="huangjinsheshou_run0001" x="100" y="441" width="96" height="138" frameX="-13" frameY="-1" frameWidth="118" frameHeight="140"/>
+    <SubTexture name="huangjinsheshou_run0002" x="234" y="292" width="102" height="136" frameX="-6" frameY="0" frameWidth="118" frameHeight="140"/>
+    <SubTexture name="huangjinsheshou_run0003" x="398" y="140" width="108" height="134" frameX="0" frameY="0" frameWidth="118" frameHeight="140"/>
+    <SubTexture name="huangjinsheshou_run0004" x="202" y="430" width="98" height="136" frameX="-11" frameY="0" frameWidth="118" frameHeight="140"/>
+    <SubTexture name="huangjinsheshou_run0005" x="340" y="276" width="104" height="132" frameX="-6" frameY="0" frameWidth="118" frameHeight="140"/>
+    <SubTexture name="huangjinsheshou_run0006" x="398" y="2" width="108" height="136" frameX="-2" frameY="0" frameWidth="118" frameHeight="140"/>
+    <SubTexture name="huangjinsheshou_run0007" x="302" y="555" width="96" height="134" frameX="-13" frameY="0" frameWidth="118" frameHeight="140"/>
+    <SubTexture name="huangjinsheshou_run0008" x="2" y="441" width="96" height="138" frameX="-13" frameY="0" frameWidth="118" frameHeight="140"/>
+    <SubTexture name="huangjinsheshou_stand" x="2" y="296" width="98" height="143" frameX="0" frameY="0" frameWidth="98" frameHeight="145"/>
+</TextureAtlas>

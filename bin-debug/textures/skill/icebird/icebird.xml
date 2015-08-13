@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:cb3dabe22e33c9b08be928dfb6369183$ -->
+<TextureAtlas imagePath="icebird.png">
+    <SubTexture name="icebird0001" x="2" y="210" width="208" height="118" frameX="-292" frameY="-2" frameWidth="500" frameHeight="120"/>
+    <SubTexture name="icebird0002" x="2" y="330" width="304" height="82" frameX="-191" frameY="-18" frameWidth="500" frameHeight="120"/>
+    <SubTexture name="icebird0003" x="2" y="146" width="418" height="62" frameX="-82" frameY="-29" frameWidth="500" frameHeight="120"/>
+    <SubTexture name="icebird0004" x="2" y="76" width="462" height="68" frameX="-26" frameY="-25" frameWidth="500" frameHeight="120"/>
+    <SubTexture name="icebird0005" x="2" y="2" width="500" height="72" frameX="0" frameY="-23" frameWidth="500" frameHeight="120"/>
+</TextureAtlas>

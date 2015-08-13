@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:ddec148e6a7e7ea07930beae06e6fd80$ -->
+<TextureAtlas imagePath="diyuhuo.png">
+    <SubTexture name="diyuhuo0001" x="2" y="886" width="564" height="298" frameX="0" frameY="-86" frameWidth="600" frameHeight="400"/>
+    <SubTexture name="diyuhuo0002" x="2" y="308" width="598" height="298" frameX="0" frameY="-87" frameWidth="600" frameHeight="400"/>
+    <SubTexture name="diyuhuo0003" x="2" y="608" width="580" height="276" frameX="0" frameY="-114" frameWidth="600" frameHeight="400"/>
+    <SubTexture name="diyuhuo0004" x="2" y="1186" width="534" height="360" frameX="-66" frameY="-10" frameWidth="600" frameHeight="400"/>
+    <SubTexture name="diyuhuo0005" x="604" y="2" width="392" height="358" frameX="-82" frameY="-10" frameWidth="600" frameHeight="400"/>
+    <SubTexture name="diyuhuo0006" x="602" y="362" width="392" height="340" frameX="-82" frameY="-15" frameWidth="600" frameHeight="400"/>
+    <SubTexture name="diyuhuo0007" x="2" y="2" width="600" height="304" frameX="0" frameY="-94" frameWidth="600" frameHeight="400"/>
+</TextureAtlas>

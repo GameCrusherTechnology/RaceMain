@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:2fe397c0fcbadc0fb3c814cbc5917b7c$ -->
+<TextureAtlas imagePath="xuesezhanshi.png">
+    <SubTexture name="xuesezhanshi_attack0001" x="265" y="626" width="203" height="252" frameX="-98" frameY="-82" frameWidth="455" frameHeight="340"/>
+    <SubTexture name="xuesezhanshi_attack0002" x="2" y="410" width="261" height="218" frameX="-65" frameY="-80" frameWidth="455" frameHeight="340"/>
+    <SubTexture name="xuesezhanshi_attack0003" x="809" y="258" width="207" height="298" frameX="-76" frameY="0" frameWidth="455" frameHeight="340"/>
+    <SubTexture name="xuesezhanshi_attack0004" x="2" y="2" width="281" height="210" frameX="0" frameY="-94" frameWidth="455" frameHeight="340"/>
+    <SubTexture name="xuesezhanshi_attack0005" x="285" y="198" width="277" height="214" frameX="-2" frameY="-85" frameWidth="455" frameHeight="340"/>
+    <SubTexture name="xuesezhanshi_attack0006" x="564" y="198" width="243" height="202" frameX="-147" frameY="-96" frameWidth="455" frameHeight="340"/>
+    <SubTexture name="xuesezhanshi_attack0007" x="285" y="2" width="281" height="194" frameX="-166" frameY="-113" frameWidth="455" frameHeight="340"/>
+    <SubTexture name="xuesezhanshi_attack0008" x="568" y="2" width="279" height="194" frameX="-161" frameY="-102" frameWidth="455" frameHeight="340"/>
+    <SubTexture name="xuesezhanshi_attack0009" x="2" y="214" width="267" height="194" frameX="-187" frameY="-121" frameWidth="455" frameHeight="340"/>
+    <SubTexture name="xuesezhanshi_attack0010" x="564" y="402" width="239" height="210" frameX="-138" frameY="-89" frameWidth="455" frameHeight="340"/>
+    <SubTexture name="xuesezhanshi_run0001" x="805" y="558" width="206" height="216" frameX="-32" frameY="-1" frameWidth="260" frameHeight="236"/>
+    <SubTexture name="xuesezhanshi_run0002" x="265" y="414" width="220" height="210" frameX="-32" frameY="-1" frameWidth="260" frameHeight="236"/>
+    <SubTexture name="xuesezhanshi_run0003" x="487" y="614" width="218" height="206" frameX="-38" frameY="-1" frameWidth="260" frameHeight="236"/>
+    <SubTexture name="xuesezhanshi_run0004" x="2" y="630" width="202" height="218" frameX="-27" frameY="-2" frameWidth="260" frameHeight="236"/>
+    <SubTexture name="xuesezhanshi_run0005" x="470" y="822" width="188" height="228" frameX="-13" frameY="-2" frameWidth="260" frameHeight="236"/>
+    <SubTexture name="xuesezhanshi_run0006" x="202" y="880" width="182" height="228" frameX="0" frameY="-2" frameWidth="260" frameHeight="236"/>
+    <SubTexture name="xuesezhanshi_run0007" x="707" y="776" width="194" height="224" frameX="-8" frameY="-2" frameWidth="260" frameHeight="236"/>
+    <SubTexture name="xuesezhanshi_run0008" x="2" y="850" width="198" height="224" frameX="-25" frameY="-3" frameWidth="260" frameHeight="236"/>
+    <SubTexture name="xuesezhanshi_stand" x="849" y="2" width="168" height="254" frameX="0" frameY="0" frameWidth="180" frameHeight="260"/>
+</TextureAtlas>

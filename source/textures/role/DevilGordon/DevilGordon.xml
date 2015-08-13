@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:1f22a5a230c2ea7e43eb402250e88cf1$ -->
+<TextureAtlas imagePath="DevilGordon.png">
+    <SubTexture name="DevilGordon_attack0001" x="147" y="410" width="167" height="184" frameX="-58" frameY="-37" frameWidth="229" frameHeight="230"/>
+    <SubTexture name="DevilGordon_attack0002" x="171" y="796" width="155" height="182" frameX="-47" frameY="-39" frameWidth="229" frameHeight="230"/>
+    <SubTexture name="DevilGordon_attack0003" x="2" y="2" width="173" height="218" frameX="-47" frameY="0" frameWidth="229" frameHeight="230"/>
+    <SubTexture name="DevilGordon_attack0004" x="471" y="368" width="109" height="174" frameX="-38" frameY="-47" frameWidth="229" frameHeight="230"/>
+    <SubTexture name="DevilGordon_attack0005" x="2" y="222" width="123" height="194" frameX="-24" frameY="-19" frameWidth="229" frameHeight="230"/>
+    <SubTexture name="DevilGordon_attack0006" x="2" y="418" width="143" height="190" frameX="0" frameY="-22" frameWidth="229" frameHeight="230"/>
+    <SubTexture name="DevilGordon_attack0007" x="177" y="2" width="191" height="186" frameX="-37" frameY="-27" frameWidth="229" frameHeight="230"/>
+    <SubTexture name="DevilGordon_attack0008" x="127" y="222" width="207" height="186" frameX="-22" frameY="-27" frameWidth="229" frameHeight="230"/>
+    <SubTexture name="DevilGordon_attack0009" x="201" y="596" width="197" height="178" frameX="-26" frameY="-36" frameWidth="229" frameHeight="230"/>
+    <SubTexture name="DevilGordon_attack0010" x="2" y="610" width="197" height="184" frameX="-21" frameY="-29" frameWidth="229" frameHeight="230"/>
+    <SubTexture name="DevilGordon_run0001" x="316" y="410" width="153" height="178" frameX="-5" frameY="0" frameWidth="187" frameHeight="186"/>
+    <SubTexture name="DevilGordon_run0002" x="513" y="180" width="155" height="172" frameX="-10" frameY="-3" frameWidth="187" frameHeight="186"/>
+    <SubTexture name="DevilGordon_run0003" x="400" y="590" width="163" height="174" frameX="-7" frameY="-5" frameWidth="187" frameHeight="186"/>
+    <SubTexture name="DevilGordon_run0004" x="336" y="190" width="175" height="176" frameX="-2" frameY="-4" frameWidth="187" frameHeight="186"/>
+    <SubTexture name="DevilGordon_run0005" x="328" y="776" width="181" height="174" frameX="0" frameY="-4" frameWidth="187" frameHeight="186"/>
+    <SubTexture name="DevilGordon_run0006" x="511" y="766" width="173" height="166" frameX="-3" frameY="-5" frameWidth="187" frameHeight="186"/>
+    <SubTexture name="DevilGordon_run0007" x="523" y="2" width="159" height="170" frameX="-7" frameY="-4" frameWidth="187" frameHeight="186"/>
+    <SubTexture name="DevilGordon_run0008" x="370" y="2" width="151" height="176" frameX="-11" frameY="-3" frameWidth="187" frameHeight="186"/>
+    <SubTexture name="DevilGordon_stand" x="2" y="796" width="167" height="182" frameX="0" frameY="0" frameWidth="167" frameHeight="184"/>
+</TextureAtlas>

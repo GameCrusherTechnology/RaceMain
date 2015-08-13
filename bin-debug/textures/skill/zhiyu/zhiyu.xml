@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:6828f48e8604a23927ea495a6049885e$ -->
+<TextureAtlas imagePath="zhiyu.png">
+    <SubTexture name="zhiyu0001" x="704" y="2" width="194" height="161" frameX="-83" frameY="-172" frameWidth="378" frameHeight="401"/>
+    <SubTexture name="zhiyu0002" x="474" y="2" width="228" height="201" frameX="-79" frameY="-143" frameWidth="378" frameHeight="401"/>
+    <SubTexture name="zhiyu0003" x="280" y="2" width="192" height="229" frameX="-93" frameY="-111" frameWidth="378" frameHeight="401"/>
+    <SubTexture name="zhiyu0004" x="2" y="353" width="270" height="339" frameX="-89" frameY="-6" frameWidth="378" frameHeight="401"/>
+    <SubTexture name="zhiyu0005" x="274" y="353" width="248" height="257" frameX="-36" frameY="-87" frameWidth="378" frameHeight="401"/>
+    <SubTexture name="zhiyu0006" x="272" y="694" width="254" height="257" frameX="-23" frameY="-74" frameWidth="378" frameHeight="401"/>
+    <SubTexture name="zhiyu0007" x="2" y="2" width="276" height="349" frameX="-79" frameY="0" frameWidth="378" frameHeight="401"/>
+    <SubTexture name="zhiyu0008" x="2" y="694" width="268" height="257" frameX="0" frameY="-74" frameWidth="378" frameHeight="401"/>
+</TextureAtlas>

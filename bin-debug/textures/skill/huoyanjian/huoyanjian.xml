@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:9465369d4b396d11db4c7d1db300fe21$ -->
+<TextureAtlas imagePath="huoyanjian.png">
+    <SubTexture name="huoyanjian0001" x="396" y="2" width="82" height="44" frameX="-341" frameY="-16" frameWidth="442" frameHeight="96"/>
+    <SubTexture name="huoyanjian0002" x="312" y="162" width="150" height="60" frameX="-275" frameY="-6" frameWidth="442" frameHeight="96"/>
+    <SubTexture name="huoyanjian0003" x="2" y="242" width="234" height="70" frameX="-192" frameY="-3" frameWidth="442" frameHeight="96"/>
+    <SubTexture name="huoyanjian0004" x="2" y="162" width="308" height="78" frameX="-126" frameY="0" frameWidth="442" frameHeight="96"/>
+    <SubTexture name="huoyanjian0005" x="2" y="84" width="362" height="76" frameX="-62" frameY="0" frameWidth="442" frameHeight="96"/>
+    <SubTexture name="huoyanjian0006" x="2" y="2" width="392" height="80" frameX="-34" frameY="0" frameWidth="442" frameHeight="96"/>
+</TextureAtlas>

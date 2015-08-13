@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:b2cdc5581999748e73a2ef59e71d25fe$ -->
+<TextureAtlas imagePath="Cyclop.png">
+    <SubTexture name="Cyclop_attack0001" x="896" y="2" width="121" height="196" frameX="-113" frameY="-22" frameWidth="361" frameHeight="220"/>
+    <SubTexture name="Cyclop_attack0002" x="755" y="580" width="95" height="192" frameX="-86" frameY="-26" frameWidth="361" frameHeight="220"/>
+    <SubTexture name="Cyclop_attack0003" x="679" y="206" width="181" height="190" frameX="-28" frameY="-27" frameWidth="361" frameHeight="220"/>
+    <SubTexture name="Cyclop_attack0004" x="2" y="162" width="221" height="218" frameX="0" frameY="0" frameWidth="361" frameHeight="220"/>
+    <SubTexture name="Cyclop_attack0005" x="685" y="2" width="209" height="202" frameX="-9" frameY="-15" frameWidth="361" frameHeight="220"/>
+    <SubTexture name="Cyclop_attack0006" x="239" y="2" width="229" height="178" frameX="-124" frameY="-40" frameWidth="361" frameHeight="220"/>
+    <SubTexture name="Cyclop_attack0007" x="2" y="2" width="235" height="158" frameX="-124" frameY="-60" frameWidth="361" frameHeight="220"/>
+    <SubTexture name="Cyclop_attack0008" x="470" y="172" width="207" height="158" frameX="-124" frameY="-61" frameWidth="361" frameHeight="220"/>
+    <SubTexture name="Cyclop_attack0009" x="470" y="2" width="213" height="168" frameX="-111" frameY="-51" frameWidth="361" frameHeight="220"/>
+    <SubTexture name="Cyclop_attack0010" x="225" y="182" width="173" height="184" frameX="-115" frameY="-34" frameWidth="361" frameHeight="220"/>
+    <SubTexture name="Cyclop_run0001" x="674" y="398" width="111" height="180" frameX="-10" frameY="0" frameWidth="173" frameHeight="186"/>
+    <SubTexture name="Cyclop_run0002" x="551" y="332" width="121" height="182" frameX="0" frameY="0" frameWidth="173" frameHeight="186"/>
+    <SubTexture name="Cyclop_run0003" x="551" y="516" width="103" height="180" frameX="-2" frameY="0" frameWidth="173" frameHeight="186"/>
+    <SubTexture name="Cyclop_run0004" x="656" y="580" width="97" height="182" frameX="-27" frameY="0" frameWidth="173" frameHeight="186"/>
+    <SubTexture name="Cyclop_run0005" x="225" y="368" width="133" height="186" frameX="-24" frameY="0" frameWidth="173" frameHeight="186"/>
+    <SubTexture name="Cyclop_run0006" x="862" y="397" width="159" height="186" frameX="-13" frameY="0" frameWidth="173" frameHeight="186"/>
+    <SubTexture name="Cyclop_run0007" x="400" y="332" width="149" height="184" frameX="-4" frameY="0" frameWidth="173" frameHeight="186"/>
+    <SubTexture name="Cyclop_run0008" x="360" y="518" width="97" height="186" frameX="-27" frameY="0" frameWidth="173" frameHeight="186"/>
+    <SubTexture name="Cyclop_stand" x="896" y="200" width="121" height="195"/>
+</TextureAtlas>

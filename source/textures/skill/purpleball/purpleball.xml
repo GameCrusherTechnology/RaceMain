@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:1441dc1861a07a0788cd7fad7c1de0e5$ -->
+<TextureAtlas imagePath="purpleball.png">
+    <SubTexture name="purpleball0001" x="2" y="154" width="230" height="150" frameX="-1" frameY="0" frameWidth="250" frameHeight="150"/>
+    <SubTexture name="purpleball0002" x="2" y="306" width="206" height="144" frameX="-15" frameY="-6" frameWidth="250" frameHeight="150"/>
+    <SubTexture name="purpleball0003" x="2" y="2" width="236" height="150" frameX="0" frameY="0" frameWidth="250" frameHeight="150"/>
+</TextureAtlas>

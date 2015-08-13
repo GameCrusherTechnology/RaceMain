@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:d05816d917468bbe56cc4114da8dd818$ -->
+<TextureAtlas imagePath="Minotaur.png">
+    <SubTexture name="Minotaur_attack0001" x="117" y="742" width="112" height="148" frameX="-87" frameY="-38" frameWidth="220" frameHeight="230"/>
+    <SubTexture name="Minotaur_attack0002" x="356" y="684" width="108" height="166" frameX="-91" frameY="-20" frameWidth="220" frameHeight="230"/>
+    <SubTexture name="Minotaur_attack0003" x="276" y="312" width="126" height="186" frameX="-46" frameY="0" frameWidth="220" frameHeight="230"/>
+    <SubTexture name="Minotaur_attack0004" x="2" y="766" width="108" height="184" frameX="-68" frameY="-3" frameWidth="220" frameHeight="230"/>
+    <SubTexture name="Minotaur_attack0005" x="242" y="644" width="112" height="158" frameX="-97" frameY="-29" frameWidth="220" frameHeight="230"/>
+    <SubTexture name="Minotaur_attack0006" x="2" y="148" width="138" height="178" frameX="-46" frameY="-50" frameWidth="220" frameHeight="230"/>
+    <SubTexture name="Minotaur_attack0007" x="348" y="2" width="162" height="164" frameX="-18" frameY="-54" frameWidth="220" frameHeight="230"/>
+    <SubTexture name="Minotaur_attack0008" x="2" y="2" width="180" height="144" frameX="0" frameY="-55" frameWidth="220" frameHeight="230"/>
+    <SubTexture name="Minotaur_attack0009" x="184" y="2" width="162" height="164" frameX="-18" frameY="-54" frameWidth="220" frameHeight="230"/>
+    <SubTexture name="Minotaur_attack0010" x="382" y="500" width="118" height="182" frameX="-70" frameY="-45" frameWidth="220" frameHeight="230"/>
+    <SubTexture name="Minotaur_run0001" x="260" y="500" width="120" height="142" frameX="-20" frameY="0" frameWidth="156" frameHeight="146"/>
+    <SubTexture name="Minotaur_run0002" x="2" y="472" width="120" height="146" frameX="-30" frameY="0" frameWidth="156" frameHeight="146"/>
+    <SubTexture name="Minotaur_run0003" x="282" y="168" width="134" height="142" frameX="-22" frameY="-2" frameWidth="156" frameHeight="146"/>
+    <SubTexture name="Minotaur_run0004" x="134" y="456" width="124" height="140" frameX="-24" frameY="-2" frameWidth="156" frameHeight="146"/>
+    <SubTexture name="Minotaur_run0005" x="124" y="598" width="116" height="142" frameX="-23" frameY="0" frameWidth="156" frameHeight="146"/>
+    <SubTexture name="Minotaur_run0006" x="2" y="328" width="130" height="142" frameX="-8" frameY="-1" frameWidth="156" frameHeight="146"/>
+    <SubTexture name="Minotaur_run0007" x="142" y="168" width="138" height="142" frameX="0" frameY="0" frameWidth="156" frameHeight="146"/>
+    <SubTexture name="Minotaur_run0008" x="142" y="312" width="132" height="142" frameX="-4" frameY="-1" frameWidth="156" frameHeight="146"/>
+    <SubTexture name="Minotaur_stand" x="2" y="620" width="113" height="144"/>
+</TextureAtlas>

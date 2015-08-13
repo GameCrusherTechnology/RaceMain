@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:e55c427816d01ea90a61c8340239fc6a$ -->
+<TextureAtlas imagePath="DarkKnight.png">
+    <SubTexture name="DarkKnight_attack0001" x="344" y="174" width="164" height="140" frameX="-76" frameY="-78" frameWidth="288" frameHeight="250"/>
+    <SubTexture name="DarkKnight_attack0002" x="218" y="2" width="180" height="136" frameX="-66" frameY="-78" frameWidth="288" frameHeight="250"/>
+    <SubTexture name="DarkKnight_attack0003" x="2" y="252" width="160" height="146" frameX="-92" frameY="-64" frameWidth="288" frameHeight="250"/>
+    <SubTexture name="DarkKnight_attack0004" x="323" y="316" width="142" height="200" frameX="-74" frameY="0" frameWidth="288" frameHeight="250"/>
+    <SubTexture name="DarkKnight_attack0005" x="152" y="409" width="130" height="184" frameX="-58" frameY="-13" frameWidth="288" frameHeight="250"/>
+    <SubTexture name="DarkKnight_attack0006" x="2" y="2" width="214" height="128" frameX="-74" frameY="-69" frameWidth="288" frameHeight="250"/>
+    <SubTexture name="DarkKnight_attack0007" x="176" y="140" width="166" height="136" frameX="-56" frameY="-65" frameWidth="288" frameHeight="250"/>
+    <SubTexture name="DarkKnight_attack0008" x="2" y="400" width="148" height="166" frameX="-35" frameY="-82" frameWidth="288" frameHeight="250"/>
+    <SubTexture name="DarkKnight_attack0009" x="2" y="132" width="172" height="118" frameX="0" frameY="-81" frameWidth="288" frameHeight="250"/>
+    <SubTexture name="DarkKnight_attack0010" x="403" y="518" width="104" height="122" frameX="-76" frameY="-78" frameWidth="288" frameHeight="250"/>
+    <SubTexture name="DarkKnight_run0001" x="403" y="642" width="101" height="170" frameX="-16" frameY="0" frameWidth="125" frameHeight="170"/>
+    <SubTexture name="DarkKnight_run0002" x="117" y="814" width="113" height="170" frameX="-12" frameY="0" frameWidth="125" frameHeight="170"/>
+    <SubTexture name="DarkKnight_run0003" x="2" y="568" width="121" height="170" frameX="0" frameY="0" frameWidth="125" frameHeight="170"/>
+    <SubTexture name="DarkKnight_run0004" x="2" y="814" width="113" height="170" frameX="-2" frameY="0" frameWidth="125" frameHeight="170"/>
+    <SubTexture name="DarkKnight_run0005" x="343" y="814" width="99" height="168" frameX="-15" frameY="-2" frameWidth="125" frameHeight="170"/>
+    <SubTexture name="DarkKnight_run0006" x="232" y="814" width="109" height="170" frameX="-4" frameY="0" frameWidth="125" frameHeight="170"/>
+    <SubTexture name="DarkKnight_run0007" x="400" y="2" width="109" height="170" frameX="-11" frameY="0" frameWidth="125" frameHeight="170"/>
+    <SubTexture name="DarkKnight_run0008" x="284" y="518" width="117" height="170" frameX="-8" frameY="0" frameWidth="125" frameHeight="170"/>
+    <SubTexture name="DarkKnight_stand" x="164" y="278" width="157" height="129"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:92783d6ba413cc4a74752c387797b20e$ -->
+<TextureAtlas imagePath="bingfengjian.png">
+    <SubTexture name="bingfengjian0001" x="1042" y="2" width="264" height="250" frameX="-32" frameY="0" frameWidth="350" frameHeight="250"/>
+    <SubTexture name="bingfengjian0002" x="698" y="2" width="342" height="250" frameX="-8" frameY="0" frameWidth="350" frameHeight="250"/>
+    <SubTexture name="bingfengjian0003" x="354" y="2" width="342" height="250" frameX="-8" frameY="0" frameWidth="350" frameHeight="250"/>
+    <SubTexture name="bingfengjian0004" x="1660" y="2" width="346" height="248" frameX="0" frameY="-2" frameWidth="350" frameHeight="250"/>
+    <SubTexture name="bingfengjian0005" x="1308" y="2" width="350" height="248" frameX="0" frameY="-2" frameWidth="350" frameHeight="250"/>
+    <SubTexture name="bingfengjian0006" x="2" y="2" width="350" height="250"/>
+</TextureAtlas>

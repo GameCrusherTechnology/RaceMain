@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:640c1079f852cfcfead708c92a4e52da$ -->
+<TextureAtlas imagePath="sheshou.png">
+    <SubTexture name="sheshou_attack0001" x="906" y="2" width="64" height="118" frameX="-20" frameY="-12" frameWidth="120" frameHeight="132"/>
+    <SubTexture name="sheshou_attack0002" x="746" y="124" width="78" height="118" frameX="-13" frameY="-12" frameWidth="120" frameHeight="132"/>
+    <SubTexture name="sheshou_attack0003" x="826" y="124" width="74" height="118" frameX="-17" frameY="-12" frameWidth="120" frameHeight="132"/>
+    <SubTexture name="sheshou_attack0004" x="548" y="124" width="96" height="118" frameX="-19" frameY="-12" frameWidth="120" frameHeight="132"/>
+    <SubTexture name="sheshou_attack0005" x="116" y="2" width="102" height="128" frameX="-16" frameY="-3" frameWidth="120" frameHeight="132"/>
+    <SubTexture name="sheshou_attack0006" x="220" y="2" width="100" height="128" frameX="-17" frameY="-3" frameWidth="120" frameHeight="132"/>
+    <SubTexture name="sheshou_attack0007" x="458" y="107" width="88" height="132" frameX="-17" frameY="0" frameWidth="120" frameHeight="132"/>
+    <SubTexture name="sheshou_attack0008" x="2" y="2" width="112" height="132" frameX="0" frameY="0" frameWidth="120" frameHeight="132"/>
+    <SubTexture name="sheshou_attack0009" x="548" y="2" width="96" height="120" frameX="-3" frameY="-11" frameWidth="120" frameHeight="132"/>
+    <SubTexture name="sheshou_attack0010" x="746" y="2" width="84" height="120" frameX="-11" frameY="-11" frameWidth="120" frameHeight="132"/>
+    <SubTexture name="sheshou_attack0011" x="832" y="2" width="72" height="120" frameX="-12" frameY="-11" frameWidth="120" frameHeight="132"/>
+    <SubTexture name="sheshou_attack0012" x="902" y="124" width="68" height="118" frameX="-17" frameY="-12" frameWidth="120" frameHeight="132"/>
+    <SubTexture name="sheshou_run0001" x="646" y="119" width="98" height="111" frameX="-20" frameY="-10" frameWidth="120" frameHeight="129"/>
+    <SubTexture name="sheshou_run0002" x="322" y="2" width="112" height="111" frameX="-6" frameY="-11" frameWidth="120" frameHeight="129"/>
+    <SubTexture name="sheshou_run0003" x="2" y="136" width="118" height="115" frameX="0" frameY="-10" frameWidth="120" frameHeight="129"/>
+    <SubTexture name="sheshou_run0004" x="242" y="132" width="106" height="119" frameX="-13" frameY="-10" frameWidth="120" frameHeight="129"/>
+    <SubTexture name="sheshou_run0005" x="646" y="2" width="96" height="115" frameX="-22" frameY="-11" frameWidth="120" frameHeight="129"/>
+    <SubTexture name="sheshou_run0006" x="436" y="2" width="110" height="103" frameX="-8" frameY="-12" frameWidth="120" frameHeight="129"/>
+    <SubTexture name="sheshou_run0007" x="122" y="132" width="118" height="107" frameX="0" frameY="-10" frameWidth="120" frameHeight="129"/>
+    <SubTexture name="sheshou_run0008" x="350" y="115" width="106" height="111" frameX="-13" frameY="-10" frameWidth="120" frameHeight="129"/>
+    <SubTexture name="sheshou_stand" x="972" y="2" width="48" height="118"/>
+</TextureAtlas>

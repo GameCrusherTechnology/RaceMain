@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:eb56ccb0df4c1a0f53c0b5489f11b5f4$ -->
+<TextureAtlas imagePath="snowball.png">
+    <SubTexture name="snowball" x="2" y="2" width="67" height="58" frameX="0" frameY="0" frameWidth="67" frameHeight="60"/>
+</TextureAtlas>

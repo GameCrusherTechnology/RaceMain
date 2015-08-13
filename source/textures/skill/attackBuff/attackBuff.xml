@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:3b733ab0068fa4c16e8ea431ec52512b$ -->
+<TextureAtlas imagePath="attackBuff.png">
+    <SubTexture name="attackBuff0001" x="2" y="2" width="369" height="299" frameX="0" frameY="-13" frameWidth="467" frameHeight="331"/>
+    <SubTexture name="attackBuff0002" x="2" y="622" width="273" height="307" frameX="-102" frameY="-10" frameWidth="467" frameHeight="331"/>
+    <SubTexture name="attackBuff0003" x="670" y="2" width="293" height="307" frameX="-91" frameY="-11" frameWidth="467" frameHeight="331"/>
+    <SubTexture name="attackBuff0004" x="373" y="2" width="295" height="317" frameX="-108" frameY="-5" frameWidth="467" frameHeight="331"/>
+    <SubTexture name="attackBuff0005" x="670" y="311" width="279" height="309" frameX="-22" frameY="0" frameWidth="467" frameHeight="331"/>
+    <SubTexture name="attackBuff0006" x="2" y="321" width="273" height="295" frameX="-29" frameY="-16" frameWidth="467" frameHeight="331"/>
+    <SubTexture name="attackBuff0007" x="277" y="622" width="265" height="277" frameX="-32" frameY="-32" frameWidth="467" frameHeight="331"/>
+    <SubTexture name="attackBuff0008" x="277" y="321" width="255" height="275" frameX="-46" frameY="-30" frameWidth="467" frameHeight="331"/>
+    <SubTexture name="attackBuff0009" x="544" y="622" width="247" height="259" frameX="-54" frameY="-39" frameWidth="467" frameHeight="331"/>
+</TextureAtlas>

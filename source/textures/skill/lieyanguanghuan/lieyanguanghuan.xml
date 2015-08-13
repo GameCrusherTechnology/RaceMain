@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:06bad92c2b536c889d1b2b6258fef93e$ -->
+<TextureAtlas imagePath="lieyanguanghuan.png">
+    <SubTexture name="lieyanguanghuan0001" x="482" y="2" width="470" height="310" frameX="-12" frameY="-40" frameWidth="500" frameHeight="350"/>
+    <SubTexture name="lieyanguanghuan0002" x="2" y="2" width="478" height="328" frameX="-8" frameY="-22" frameWidth="500" frameHeight="350"/>
+    <SubTexture name="lieyanguanghuan0003" x="482" y="314" width="462" height="350" frameX="-23" frameY="0" frameWidth="500" frameHeight="350"/>
+    <SubTexture name="lieyanguanghuan0004" x="2" y="666" width="432" height="350" frameX="-38" frameY="0" frameWidth="500" frameHeight="350"/>
+    <SubTexture name="lieyanguanghuan0005" x="2" y="332" width="446" height="310" frameX="-15" frameY="-25" frameWidth="500" frameHeight="350"/>
+    <SubTexture name="lieyanguanghuan0006" x="436" y="666" width="454" height="300" frameX="-5" frameY="-39" frameWidth="500" frameHeight="350"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:c264ade494b118bc1a6baacfda56dadb$ -->
+<TextureAtlas imagePath="thunder.png">
+    <SubTexture name="thunder0001" x="182" y="232" width="71" height="119" frameX="-26" frameY="-2" frameWidth="107" frameHeight="131"/>
+    <SubTexture name="thunder0002" x="97" y="2" width="91" height="107" frameX="-16" frameY="-4" frameWidth="107" frameHeight="131"/>
+    <SubTexture name="thunder0003" x="2" y="2" width="93" height="121" frameX="0" frameY="0" frameWidth="107" frameHeight="131"/>
+    <SubTexture name="thunder0004" x="2" y="125" width="89" height="113" frameX="-2" frameY="-2" frameWidth="107" frameHeight="131"/>
+    <SubTexture name="thunder0005" x="2" y="240" width="79" height="121" frameX="-2" frameY="0" frameWidth="107" frameHeight="131"/>
+    <SubTexture name="thunder0006" x="97" y="111" width="89" height="119" frameX="-3" frameY="-1" frameWidth="107" frameHeight="131"/>
+    <SubTexture name="thunder0007" x="93" y="232" width="87" height="101" frameX="-3" frameY="-1" frameWidth="107" frameHeight="131"/>
+    <SubTexture name="thunder0008" x="83" y="335" width="73" height="101" frameX="-20" frameY="-13" frameWidth="107" frameHeight="131"/>
+</TextureAtlas>

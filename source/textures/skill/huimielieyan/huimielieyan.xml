@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:99daf602ca163860af974bca79186a52$ -->
+<TextureAtlas imagePath="huimielieyan.png">
+    <SubTexture name="huimielieyan0001" x="706" y="2" width="312" height="238" frameX="0" frameY="-12" frameWidth="350" frameHeight="250"/>
+    <SubTexture name="huimielieyan0002" x="354" y="2" width="350" height="250"/>
+    <SubTexture name="huimielieyan0003" x="2" y="758" width="336" height="236" frameX="0" frameY="0" frameWidth="350" frameHeight="250"/>
+    <SubTexture name="huimielieyan0004" x="2" y="506" width="346" height="250" frameX="-4" frameY="0" frameWidth="350" frameHeight="250"/>
+    <SubTexture name="huimielieyan0005" x="2" y="254" width="346" height="250" frameX="-4" frameY="0" frameWidth="350" frameHeight="250"/>
+    <SubTexture name="huimielieyan0006" x="2" y="2" width="350" height="250"/>
+    <SubTexture name="huimielieyan0007" x="340" y="758" width="350" height="230" frameX="0" frameY="-20" frameWidth="350" frameHeight="250"/>
+</TextureAtlas>

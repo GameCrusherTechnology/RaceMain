@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:271c08ed4f9f7090236c087ba0946dc1$ -->
+<TextureAtlas imagePath="liuxingyu.png">
+    <SubTexture name="liuxingyu0001" x="550" y="288" width="166" height="190" frameX="-48" frameY="-20" frameWidth="600" frameHeight="400"/>
+    <SubTexture name="liuxingyu0002" x="550" y="2" width="308" height="284" frameX="-46" frameY="-16" frameWidth="600" frameHeight="400"/>
+    <SubTexture name="liuxingyu0003" x="2" y="1152" width="524" height="400" frameX="-2" frameY="0" frameWidth="600" frameHeight="400"/>
+    <SubTexture name="liuxingyu0004" x="2" y="2" width="546" height="382" frameX="0" frameY="-18" frameWidth="600" frameHeight="400"/>
+    <SubTexture name="liuxingyu0005" x="2" y="768" width="536" height="382" frameX="-5" frameY="-18" frameWidth="600" frameHeight="400"/>
+    <SubTexture name="liuxingyu0006" x="2" y="386" width="546" height="380" frameX="-21" frameY="-20" frameWidth="600" frameHeight="400"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:4ac23f86b4e4013c0687e677d6835eff$ -->
+<TextureAtlas imagePath="huoyanyu.png">
+    <SubTexture name="huoyanyu0001" x="2" y="756" width="126" height="172" frameX="0" frameY="0" frameWidth="320" frameHeight="390"/>
+    <SubTexture name="huoyanyu0002" x="2" y="380" width="302" height="374" frameX="-11" frameY="-16" frameWidth="320" frameHeight="390"/>
+    <SubTexture name="huoyanyu0003" x="2" y="2" width="320" height="376" frameX="0" frameY="-14" frameWidth="320" frameHeight="390"/>
+    <SubTexture name="huoyanyu0004" x="306" y="380" width="268" height="370" frameX="-11" frameY="-20" frameWidth="320" frameHeight="390"/>
+    <SubTexture name="huoyanyu0005" x="324" y="2" width="258" height="360" frameX="-20" frameY="-29" frameWidth="320" frameHeight="390"/>
+</TextureAtlas>

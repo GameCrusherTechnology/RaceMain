@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:b7d60fa3b67e0e0f9a6efa93bbadcd42$ -->
+<TextureAtlas imagePath="shield.png">
+    <SubTexture name="shield" x="2" y="2" width="75" height="136" frameX="-18" frameY="0" frameWidth="93" frameHeight="138"/>
+</TextureAtlas>

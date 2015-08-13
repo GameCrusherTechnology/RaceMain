@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:54ad68dc21121ee1c4d815cdfa4e4188$ -->
+<TextureAtlas imagePath="HellSpider.png">
+    <SubTexture name="HellSpider_attack0001" x="244" y="566" width="240" height="280"/>
+    <SubTexture name="HellSpider_attack0002" x="2" y="566" width="240" height="280"/>
+    <SubTexture name="HellSpider_attack0003" x="728" y="284" width="240" height="280"/>
+    <SubTexture name="HellSpider_attack0004" x="486" y="284" width="240" height="280"/>
+    <SubTexture name="HellSpider_attack0005" x="244" y="284" width="240" height="280"/>
+    <SubTexture name="HellSpider_attack0006" x="2" y="284" width="240" height="280"/>
+    <SubTexture name="HellSpider_attack0007" x="728" y="2" width="240" height="280"/>
+    <SubTexture name="HellSpider_attack0008" x="486" y="2" width="240" height="280"/>
+    <SubTexture name="HellSpider_attack0009" x="244" y="2" width="240" height="280"/>
+    <SubTexture name="HellSpider_attack0010" x="2" y="2" width="240" height="280"/>
+    <SubTexture name="HellSpider_run0001" x="2" y="1097" width="183" height="247"/>
+    <SubTexture name="HellSpider_run0002" x="372" y="1064" width="183" height="247"/>
+    <SubTexture name="HellSpider_run0003" x="187" y="848" width="183" height="247"/>
+    <SubTexture name="HellSpider_run0004" x="2" y="848" width="183" height="247"/>
+    <SubTexture name="HellSpider_run0005" x="671" y="815" width="183" height="247"/>
+    <SubTexture name="HellSpider_run0006" x="486" y="815" width="183" height="247"/>
+    <SubTexture name="HellSpider_run0007" x="671" y="566" width="183" height="247"/>
+    <SubTexture name="HellSpider_run0008" x="486" y="566" width="183" height="247"/>
+    <SubTexture name="HellSpider_stand" x="856" y="566" width="159" height="240"/>
+</TextureAtlas>

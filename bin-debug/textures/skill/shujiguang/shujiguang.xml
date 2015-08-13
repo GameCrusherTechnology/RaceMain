@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:736d71218ce7ab44abee404be87f9868$ -->
+<TextureAtlas imagePath="shujiguang.png">
+    <SubTexture name="shujiguang0001" x="294" y="2" width="64" height="243" frameX="-27" frameY="-48" frameWidth="136" frameHeight="339"/>
+    <SubTexture name="shujiguang0002" x="228" y="2" width="64" height="309" frameX="-27" frameY="0" frameWidth="136" frameHeight="339"/>
+    <SubTexture name="shujiguang0003" x="140" y="2" width="86" height="331" frameX="-22" frameY="0" frameWidth="136" frameHeight="339"/>
+    <SubTexture name="shujiguang0004" x="2" y="2" width="136" height="339"/>
+</TextureAtlas>

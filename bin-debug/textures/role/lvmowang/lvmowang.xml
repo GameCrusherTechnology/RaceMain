@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:94d51d3fddff37996a1efa2583f64589$ -->
+<TextureAtlas imagePath="lvmowang.png">
+    <SubTexture name="lvmowang_attack0001" x="632" y="2" width="255" height="244" frameX="-95" frameY="-19" frameWidth="445" frameHeight="270"/>
+    <SubTexture name="lvmowang_attack0002" x="2" y="2" width="353" height="222" frameX="0" frameY="-41" frameWidth="445" frameHeight="270"/>
+    <SubTexture name="lvmowang_attack0003" x="357" y="2" width="273" height="224" frameX="-108" frameY="-37" frameWidth="445" frameHeight="270"/>
+    <SubTexture name="lvmowang_attack0004" x="258" y="494" width="247" height="254" frameX="-198" frameY="0" frameWidth="445" frameHeight="270"/>
+    <SubTexture name="lvmowang_attack0005" x="507" y="494" width="209" height="250" frameX="-178" frameY="-4" frameWidth="445" frameHeight="270"/>
+    <SubTexture name="lvmowang_run0001" x="256" y="752" width="252" height="264" frameX="-2" frameY="-9" frameWidth="256" frameHeight="280"/>
+    <SubTexture name="lvmowang_run0002" x="2" y="488" width="254" height="262" frameX="-1" frameY="-5" frameWidth="256" frameHeight="280"/>
+    <SubTexture name="lvmowang_run0003" x="260" y="228" width="254" height="264" frameX="-2" frameY="0" frameWidth="256" frameHeight="280"/>
+    <SubTexture name="lvmowang_run0004" x="2" y="752" width="252" height="264" frameX="0" frameY="-14" frameWidth="256" frameHeight="280"/>
+    <SubTexture name="lvmowang_stand" x="2" y="226" width="256" height="260"/>
+</TextureAtlas>

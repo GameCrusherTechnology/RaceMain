@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:4380443bd0a8875ad1c10063ba3017b9$ -->
+<TextureAtlas imagePath="lanyan.png">
+    <SubTexture name="lanyan0001" x="266" y="558" width="216" height="110" frameX="-59" frameY="-64" frameWidth="300" frameHeight="200"/>
+    <SubTexture name="lanyan0002" x="266" y="406" width="228" height="150" frameX="-69" frameY="-39" frameWidth="300" frameHeight="200"/>
+    <SubTexture name="lanyan0003" x="2" y="406" width="262" height="186" frameX="-22" frameY="0" frameWidth="300" frameHeight="200"/>
+    <SubTexture name="lanyan0004" x="2" y="204" width="292" height="200" frameX="-8" frameY="0" frameWidth="300" frameHeight="200"/>
+    <SubTexture name="lanyan0005" x="2" y="2" width="300" height="200"/>
+</TextureAtlas>

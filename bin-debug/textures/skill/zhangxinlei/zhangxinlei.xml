@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:b21ecca5c7d703f6c16a0a94166fb49d$ -->
+<TextureAtlas imagePath="zhangxinlei.png">
+    <SubTexture name="zhangxinlei0001" x="2" y="334" width="138" height="158" frameX="-65" frameY="-66" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="zhangxinlei0002" x="290" y="138" width="134" height="198" frameX="-91" frameY="-13" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="zhangxinlei0003" x="142" y="334" width="146" height="156" frameX="-57" frameY="-85" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="zhangxinlei0004" x="232" y="2" width="188" height="134" frameX="-32" frameY="-72" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="zhangxinlei0005" x="2" y="2" width="228" height="120" frameX="-24" frameY="-76" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="zhangxinlei0006" x="2" y="124" width="184" height="208" frameX="-81" frameY="-28" frameWidth="300" frameHeight="300"/>
+</TextureAtlas>

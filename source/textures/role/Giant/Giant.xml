@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:c65afbe6ea325abb83389207568419d2$ -->
+<TextureAtlas imagePath="Giant.png">
+    <SubTexture name="Giant_attack0001" x="2" y="638" width="194" height="176" frameX="-87" frameY="-158" frameWidth="400" frameHeight="350"/>
+    <SubTexture name="Giant_attack0002" x="2" y="816" width="192" height="174" frameX="-113" frameY="-159" frameWidth="400" frameHeight="350"/>
+    <SubTexture name="Giant_attack0003" x="200" y="2" width="152" height="160" frameX="-74" frameY="-174" frameWidth="400" frameHeight="350"/>
+    <SubTexture name="Giant_attack0004" x="2" y="350" width="186" height="286" frameX="-65" frameY="-49" frameWidth="400" frameHeight="350"/>
+    <SubTexture name="Giant_attack0005" x="2" y="2" width="196" height="346" frameX="-68" frameY="0" frameWidth="400" frameHeight="350"/>
+    <SubTexture name="Giant_attack0006" x="641" y="2" width="282" height="160" frameX="-118" frameY="-173" frameWidth="400" frameHeight="350"/>
+    <SubTexture name="Giant_attack0007" x="434" y="169" width="234" height="156" frameX="-118" frameY="-179" frameWidth="400" frameHeight="350"/>
+    <SubTexture name="Giant_attack0008" x="664" y="468" width="220" height="154" frameX="-113" frameY="-181" frameWidth="400" frameHeight="350"/>
+    <SubTexture name="Giant_attack0009" x="200" y="169" width="232" height="164" frameX="-99" frameY="-167" frameWidth="400" frameHeight="350"/>
+    <SubTexture name="Giant_attack0010" x="198" y="521" width="180" height="168" frameX="-100" frameY="-167" frameWidth="400" frameHeight="350"/>
+    <SubTexture name="Giant_run0001" x="670" y="164" width="263" height="149" frameX="-20" frameY="-4" frameWidth="289" frameHeight="175"/>
+    <SubTexture name="Giant_run0002" x="641" y="624" width="215" height="149" frameX="-51" frameY="-4" frameWidth="289" frameHeight="175"/>
+    <SubTexture name="Giant_run0003" x="394" y="690" width="211" height="145" frameX="-57" frameY="-4" frameWidth="289" frameHeight="175"/>
+    <SubTexture name="Giant_run0004" x="670" y="315" width="257" height="151" frameX="-27" frameY="-3" frameWidth="289" frameHeight="175"/>
+    <SubTexture name="Giant_run0005" x="380" y="521" width="259" height="167" frameX="-23" frameY="-5" frameWidth="289" frameHeight="175"/>
+    <SubTexture name="Giant_run0006" x="190" y="350" width="217" height="169" frameX="-34" frameY="-4" frameWidth="289" frameHeight="175"/>
+    <SubTexture name="Giant_run0007" x="409" y="2" width="225" height="165" frameX="-60" frameY="-2" frameWidth="289" frameHeight="175"/>
+    <SubTexture name="Giant_run0008" x="409" y="335" width="253" height="161" frameX="-31" frameY="-3" frameWidth="289" frameHeight="175"/>
+    <SubTexture name="Giant_stand" x="196" y="816" width="196" height="173" frameX="-24" frameY="0" frameWidth="220" frameHeight="175"/>
+</TextureAtlas>

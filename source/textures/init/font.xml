@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:17637782b8f8630969c568da48f8dc8d$ -->
+<TextureAtlas imagePath="font.png">
+    <SubTexture name="Number_BigWhite0" x="150" y="218" width="38" height="42" frameX="0" frameY="0" frameWidth="40" frameHeight="44"/>
+    <SubTexture name="Number_BigWhite1" x="68" y="373" width="24" height="42" frameX="-5" frameY="0" frameWidth="40" frameHeight="44"/>
+    <SubTexture name="Number_BigWhite2" x="149" y="262" width="32" height="40" frameX="-4" frameY="0" frameWidth="40" frameHeight="44"/>
+    <SubTexture name="Number_BigWhite3" x="37" y="255" width="32" height="42" frameX="-3" frameY="0" frameWidth="40" frameHeight="44"/>
+    <SubTexture name="Number_BigWhite4" x="2" y="279" width="32" height="40" frameX="-3" frameY="-2" frameWidth="40" frameHeight="44"/>
+    <SubTexture name="Number_BigWhite5" x="85" y="253" width="32" height="42" frameX="-5" frameY="0" frameWidth="40" frameHeight="44"/>
+    <SubTexture name="Number_BigWhite6" x="2" y="321" width="32" height="38" frameX="-4" frameY="-3" frameWidth="40" frameHeight="44"/>
+    <SubTexture name="Number_BigWhite7" x="182" y="321" width="30" height="38" frameX="-5" frameY="-4" frameWidth="40" frameHeight="44"/>
+    <SubTexture name="Number_BigWhite8" x="36" y="299" width="32" height="38" frameX="-4" frameY="-4" frameWidth="40" frameHeight="44"/>
+    <SubTexture name="Number_BigWhite9" x="71" y="297" width="32" height="38" frameX="-4" frameY="-4" frameWidth="40" frameHeight="44"/>
+    <SubTexture name="Number_DarkBlueBold0" x="104" y="138" width="46" height="38" frameX="-4" frameY="-1" frameWidth="50" frameHeight="40"/>
+    <SubTexture name="Number_DarkBlueBold0011" x="198" y="179" width="40" height="36" frameX="-8" frameY="-2" frameWidth="50" frameHeight="40"/>
+    <SubTexture name="Number_DarkBlueBold1" x="119" y="253" width="28" height="36" frameX="-12" frameY="-2" frameWidth="50" frameHeight="40"/>
+    <SubTexture name="Number_DarkBlueBold2" x="200" y="141" width="46" height="36" frameX="-2" frameY="-2" frameWidth="50" frameHeight="40"/>
+    <SubTexture name="Number_DarkBlueBold3" x="152" y="138" width="46" height="36" frameX="-1" frameY="-2" frameWidth="50" frameHeight="40"/>
+    <SubTexture name="Number_DarkBlueBold4" x="2" y="204" width="44" height="40" frameX="-2" frameY="0" frameWidth="50" frameHeight="40"/>
+    <SubTexture name="Number_DarkBlueBold5" x="54" y="180" width="44" height="40" frameX="-2" frameY="0" frameWidth="50" frameHeight="40"/>
+    <SubTexture name="Number_DarkBlueBold6" x="54" y="138" width="48" height="40" frameX="0" frameY="0" frameWidth="50" frameHeight="40"/>
+    <SubTexture name="Number_DarkBlueBold7" x="214" y="101" width="40" height="38" frameX="-6" frameY="-1" frameWidth="50" frameHeight="40"/>
+    <SubTexture name="Number_DarkBlueBold8" x="104" y="178" width="44" height="40" frameX="-1" frameY="0" frameWidth="50" frameHeight="40"/>
+    <SubTexture name="Number_DarkBlueBold9" x="152" y="176" width="44" height="40" frameX="-4" frameY="0" frameWidth="50" frameHeight="40"/>
+    <SubTexture name="Number_DarkGreenBold0" x="2" y="246" width="33" height="31" frameX="0" frameY="-1" frameWidth="35" frameHeight="33"/>
+    <SubTexture name="Number_DarkGreenBold1" x="2" y="397" width="23" height="31" frameX="-6" frameY="-1" frameWidth="35" frameHeight="33"/>
+    <SubTexture name="Number_DarkGreenBold2" x="220" y="68" width="33" height="31" frameX="-1" frameY="-1" frameWidth="35" frameHeight="33"/>
+    <SubTexture name="Number_DarkGreenBold3" x="217" y="318" width="31" height="31" frameX="-2" frameY="-1" frameWidth="35" frameHeight="33"/>
+    <SubTexture name="Number_DarkGreenBold4" x="48" y="222" width="35" height="31" frameX="0" frameY="-1" frameWidth="35" frameHeight="33"/>
+    <SubTexture name="Number_DarkGreenBold5" x="217" y="285" width="31" height="31" frameX="-1" frameY="-1" frameWidth="35" frameHeight="33"/>
+    <SubTexture name="Number_DarkGreenBold6" x="220" y="35" width="33" height="31" frameX="-1" frameY="-1" frameWidth="35" frameHeight="33"/>
+    <SubTexture name="Number_DarkGreenBold7" x="100" y="220" width="35" height="31" frameX="0" frameY="-1" frameWidth="35" frameHeight="33"/>
+    <SubTexture name="Number_DarkGreenBold8" x="149" y="304" width="31" height="31" frameX="-1" frameY="-1" frameWidth="35" frameHeight="33"/>
+    <SubTexture name="Number_DarkGreenBold9" x="220" y="2" width="33" height="31" frameX="0" frameY="0" frameWidth="35" frameHeight="33"/>
+    <SubTexture name="Number_Green0" x="137" y="337" width="30" height="34" frameX="-1" frameY="-1" frameWidth="32" frameHeight="36"/>
+    <SubTexture name="Number_Green1" x="34" y="375" width="24" height="34" frameX="-1" frameY="-1" frameWidth="32" frameHeight="36"/>
+    <SubTexture name="Number_Green2" x="2" y="361" width="30" height="34" frameX="0" frameY="-1" frameWidth="32" frameHeight="36"/>
+    <SubTexture name="Number_Green3" x="36" y="339" width="30" height="34" frameX="0" frameY="-1" frameWidth="32" frameHeight="36"/>
+    <SubTexture name="Number_Green4" x="183" y="285" width="32" height="34" frameX="0" frameY="-1" frameWidth="32" frameHeight="36"/>
+    <SubTexture name="Number_Green5" x="102" y="363" width="28" height="34" frameX="-1" frameY="-1" frameWidth="32" frameHeight="36"/>
+    <SubTexture name="Number_Green6" x="70" y="337" width="30" height="34" frameX="0" frameY="-1" frameWidth="32" frameHeight="36"/>
+    <SubTexture name="Number_Green7" x="119" y="291" width="28" height="34" frameX="-2" frameY="-1" frameWidth="32" frameHeight="36"/>
+    <SubTexture name="Number_Green8" x="105" y="327" width="30" height="34" frameX="0" frameY="-1" frameWidth="32" frameHeight="36"/>
+    <SubTexture name="Number_Green9" x="214" y="351" width="30" height="34" frameX="0" frameY="-1" frameWidth="32" frameHeight="36"/>
+    <SubTexture name="Number_OrangeBold0" x="56" y="70" width="52" height="66" frameX="-3" frameY="-4" frameWidth="60" frameHeight="70"/>
+    <SubTexture name="Number_OrangeBold1" x="198" y="217" width="38" height="66" frameX="-3" frameY="-4" frameWidth="60" frameHeight="70"/>
+    <SubTexture name="Number_OrangeBold2" x="2" y="70" width="52" height="66" frameX="-2" frameY="-3" frameWidth="60" frameHeight="70"/>
+    <SubTexture name="Number_OrangeBold3" x="162" y="70" width="50" height="66" frameX="-4" frameY="-4" frameWidth="60" frameHeight="70"/>
+    <SubTexture name="Number_OrangeBold4" x="2" y="2" width="54" height="66" frameX="-2" frameY="-4" frameWidth="60" frameHeight="70"/>
+    <SubTexture name="Number_OrangeBold5" x="2" y="138" width="50" height="64" frameX="-4" frameY="-6" frameWidth="60" frameHeight="70"/>
+    <SubTexture name="Number_OrangeBold6" x="166" y="2" width="52" height="66" frameX="-3" frameY="-4" frameWidth="60" frameHeight="70"/>
+    <SubTexture name="Number_OrangeBold7" x="110" y="70" width="50" height="66" frameX="-4" frameY="-4" frameWidth="60" frameHeight="70"/>
+    <SubTexture name="Number_OrangeBold8" x="112" y="2" width="52" height="66" frameX="-3" frameY="-4" frameWidth="60" frameHeight="70"/>
+    <SubTexture name="Number_OrangeBold9" x="58" y="2" width="52" height="66" frameX="-2" frameY="-4" frameWidth="60" frameHeight="70"/>
+</TextureAtlas>

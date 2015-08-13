@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:c395a5aaf7a6c3dd79481cf9cfbfb88c$ -->
+<TextureAtlas imagePath="greenBuff.png">
+    <SubTexture name="greenBuff0001" x="365" y="158" width="101" height="162" frameX="-27" frameY="0" frameWidth="147" frameHeight="198"/>
+    <SubTexture name="greenBuff0002" x="254" y="176" width="83" height="150" frameX="-33" frameY="-7" frameWidth="147" frameHeight="198"/>
+    <SubTexture name="greenBuff0003" x="365" y="2" width="107" height="154" frameX="-22" frameY="-26" frameWidth="147" frameHeight="198"/>
+    <SubTexture name="greenBuff0004" x="131" y="190" width="121" height="176" frameX="-7" frameY="-17" frameWidth="147" frameHeight="198"/>
+    <SubTexture name="greenBuff0005" x="2" y="2" width="131" height="186" frameX="0" frameY="-8" frameWidth="147" frameHeight="198"/>
+    <SubTexture name="greenBuff0006" x="135" y="2" width="105" height="176" frameX="-26" frameY="-15" frameWidth="147" frameHeight="198"/>
+    <SubTexture name="greenBuff0007" x="2" y="190" width="127" height="176" frameX="-3" frameY="-7" frameWidth="147" frameHeight="198"/>
+    <SubTexture name="greenBuff0008" x="242" y="2" width="121" height="172" frameX="-13" frameY="-25" frameWidth="147" frameHeight="198"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:3be60cc2e6074f3679f52e74026447fc$ -->
+<TextureAtlas imagePath="fireBuff.png">
+    <SubTexture name="fireBuff" x="2" y="2" width="88" height="130" frameX="0" frameY="0" frameWidth="88" frameHeight="132"/>
+</TextureAtlas>

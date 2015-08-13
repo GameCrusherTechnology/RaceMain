@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:11796931e29b3c1b52440e1ee0057280$ -->
+<TextureAtlas imagePath="Ghost.png">
+    <SubTexture name="Ghost" x="2" y="116" width="144" height="118" frameX="0" frameY="-5" frameWidth="144" frameHeight="124"/>
+    <SubTexture name="Ghost_attack0001" x="148" y="122" width="113" height="100" frameX="0" frameY="-74" frameWidth="183" frameHeight="210"/>
+    <SubTexture name="Ghost_attack0002" x="374" y="124" width="109" height="110" frameX="-4" frameY="-73" frameWidth="183" frameHeight="210"/>
+    <SubTexture name="Ghost_attack0003" x="259" y="256" width="97" height="106" frameX="-12" frameY="-73" frameWidth="183" frameHeight="210"/>
+    <SubTexture name="Ghost_attack0004" x="87" y="356" width="95" height="124" frameX="-12" frameY="-73" frameWidth="183" frameHeight="210"/>
+    <SubTexture name="Ghost_attack0005" x="184" y="364" width="83" height="106" frameX="-53" frameY="-73" frameWidth="183" frameHeight="210"/>
+    <SubTexture name="Ghost_attack0006" x="2" y="236" width="83" height="174" frameX="-26" frameY="0" frameWidth="183" frameHeight="210"/>
+    <SubTexture name="Ghost_attack0007" x="2" y="2" width="179" height="112" frameX="-4" frameY="-48" frameWidth="183" frameHeight="210"/>
+    <SubTexture name="Ghost_attack0008" x="148" y="224" width="109" height="130" frameX="-11" frameY="-72" frameWidth="183" frameHeight="210"/>
+    <SubTexture name="Ghost_attack0009" x="263" y="124" width="109" height="130" frameX="-18" frameY="-73" frameWidth="183" frameHeight="210"/>
+    <SubTexture name="Ghost_attack0010" x="330" y="2" width="125" height="120" frameX="-28" frameY="-74" frameWidth="183" frameHeight="210"/>
+    <SubTexture name="Ghost_run0001" x="183" y="2" width="145" height="118" frameX="-18" frameY="-19" frameWidth="183" frameHeight="180"/>
+    <SubTexture name="Ghost_run0002" x="183" y="2" width="145" height="118" frameX="-18" frameY="-17" frameWidth="183" frameHeight="180"/>
+    <SubTexture name="Ghost_run0003" x="183" y="2" width="145" height="118" frameX="-18" frameY="-14" frameWidth="183" frameHeight="180"/>
+    <SubTexture name="Ghost_run0004" x="183" y="2" width="145" height="118" frameX="-18" frameY="-18" frameWidth="183" frameHeight="180"/>
+    <SubTexture name="Ghost_run0005" x="183" y="2" width="145" height="118" frameX="-18" frameY="-20" frameWidth="183" frameHeight="180"/>
+    <SubTexture name="Ghost_stand" x="374" y="236" width="105" height="121"/>
+</TextureAtlas>

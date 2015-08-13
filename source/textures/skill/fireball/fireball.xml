@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:72fba55305346de7d92dfa9f06510e8d$ -->
+<TextureAtlas imagePath="fireball.png">
+    <SubTexture name="fireball0001" x="359" y="2" width="137" height="82" frameX="-226" frameY="-1" frameWidth="365" frameHeight="84"/>
+    <SubTexture name="fireball0002" x="315" y="86" width="171" height="84" frameX="-194" frameY="0" frameWidth="365" frameHeight="84"/>
+    <SubTexture name="fireball0003" x="2" y="172" width="247" height="82" frameX="-108" frameY="-1" frameWidth="365" frameHeight="84"/>
+    <SubTexture name="fireball0004" x="2" y="86" width="311" height="84" frameX="-43" frameY="0" frameWidth="365" frameHeight="84"/>
+    <SubTexture name="fireball0005" x="2" y="2" width="355" height="82" frameX="0" frameY="-2" frameWidth="365" frameHeight="84"/>
+</TextureAtlas>

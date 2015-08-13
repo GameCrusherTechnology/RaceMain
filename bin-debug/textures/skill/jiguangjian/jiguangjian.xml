@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:f89e426eebfeb55119ee356e9016c55d$ -->
+<TextureAtlas imagePath="jiguangjian.png">
+    <SubTexture name="jiguangjian0001" x="2" y="542" width="188" height="26" frameX="-261" frameY="-68" frameWidth="480" frameHeight="150"/>
+    <SubTexture name="jiguangjian0003" x="2" y="2" width="480" height="64" frameX="0" frameY="-50" frameWidth="480" frameHeight="150"/>
+    <SubTexture name="jiguangjian0004" x="2" y="68" width="462" height="92" frameX="-10" frameY="-33" frameWidth="480" frameHeight="150"/>
+    <SubTexture name="jiguangjian0005" x="2" y="434" width="416" height="106" frameX="-45" frameY="-23" frameWidth="480" frameHeight="150"/>
+    <SubTexture name="jiguangjian0006" x="2" y="162" width="438" height="118" frameX="-34" frameY="-23" frameWidth="480" frameHeight="150"/>
+    <SubTexture name="jiguangjian0007" x="2" y="282" width="434" height="150" frameX="-34" frameY="0" frameWidth="480" frameHeight="150"/>
+</TextureAtlas>

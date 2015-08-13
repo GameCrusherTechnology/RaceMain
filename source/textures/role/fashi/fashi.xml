@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:0cf2fd1e9dcd1e114531c491c36c445c$ -->
+<TextureAtlas imagePath="fashi.png">
+    <SubTexture name="fashi_attack0001" x="420" y="342" width="75" height="128" frameX="-15" frameY="-38" frameWidth="183" frameHeight="168"/>
+    <SubTexture name="fashi_attack0002" x="204" y="416" width="69" height="126" frameX="-15" frameY="-40" frameWidth="183" frameHeight="168"/>
+    <SubTexture name="fashi_attack0003" x="420" y="472" width="69" height="136" frameX="-13" frameY="-30" frameWidth="183" frameHeight="168"/>
+    <SubTexture name="fashi_attack0004" x="335" y="342" width="83" height="142" frameX="0" frameY="-24" frameWidth="183" frameHeight="168"/>
+    <SubTexture name="fashi_attack0005" x="2" y="154" width="123" height="148" frameX="-19" frameY="-18" frameWidth="183" frameHeight="168"/>
+    <SubTexture name="fashi_attack0006" x="2" y="2" width="129" height="150" frameX="-12" frameY="-16" frameWidth="183" frameHeight="168"/>
+    <SubTexture name="fashi_attack0007" x="261" y="2" width="125" height="148" frameX="-18" frameY="-17" frameWidth="183" frameHeight="168"/>
+    <SubTexture name="fashi_attack0008" x="133" y="114" width="123" height="150" frameX="-22" frameY="-16" frameWidth="183" frameHeight="168"/>
+    <SubTexture name="fashi_attack0009" x="258" y="152" width="107" height="140" frameX="-25" frameY="-27" frameWidth="183" frameHeight="168"/>
+    <SubTexture name="fashi_run0001" x="106" y="378" width="96" height="112" frameX="-28" frameY="0" frameWidth="130" frameHeight="120"/>
+    <SubTexture name="fashi_run0002" x="388" y="112" width="114" height="114" frameX="-1" frameY="0" frameWidth="130" frameHeight="120"/>
+    <SubTexture name="fashi_run0003" x="367" y="228" width="102" height="112" frameX="-17" frameY="0" frameWidth="130" frameHeight="120"/>
+    <SubTexture name="fashi_run0004" x="2" y="304" width="102" height="116" frameX="-17" frameY="0" frameWidth="130" frameHeight="120"/>
+    <SubTexture name="fashi_run0005" x="235" y="294" width="98" height="120" frameX="-29" frameY="0" frameWidth="130" frameHeight="120"/>
+    <SubTexture name="fashi_run0006" x="388" y="2" width="118" height="108" frameX="-12" frameY="0" frameWidth="130" frameHeight="120"/>
+    <SubTexture name="fashi_run0007" x="133" y="2" width="126" height="110" frameX="0" frameY="0" frameWidth="130" frameHeight="120"/>
+    <SubTexture name="fashi_run0008" x="127" y="266" width="106" height="110" frameX="-18" frameY="0" frameWidth="130" frameHeight="120"/>
+    <SubTexture name="fashi_stand" x="2" y="422" width="91" height="119" frameX="0" frameY="0" frameWidth="105" frameHeight="119"/>
+</TextureAtlas>

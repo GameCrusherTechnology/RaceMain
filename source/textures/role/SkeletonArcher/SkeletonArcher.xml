@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:e18258f033e91f9d9ffc38f93bad72a0$ -->
+<TextureAtlas imagePath="SkeletonArcher.png">
+    <SubTexture name="SkeletonArcher_attack0001" x="113" y="646" width="85" height="164" frameX="-35" frameY="-1" frameWidth="165" frameHeight="170"/>
+    <SubTexture name="SkeletonArcher_attack0002" x="123" y="328" width="117" height="160" frameX="-32" frameY="-5" frameWidth="165" frameHeight="170"/>
+    <SubTexture name="SkeletonArcher_attack0003" x="149" y="2" width="139" height="158" frameX="-26" frameY="-7" frameWidth="165" frameHeight="170"/>
+    <SubTexture name="SkeletonArcher_attack0004" x="149" y="162" width="135" height="164" frameX="-26" frameY="-1" frameWidth="165" frameHeight="170"/>
+    <SubTexture name="SkeletonArcher_attack0005" x="2" y="2" width="145" height="166" frameX="0" frameY="0" frameWidth="165" frameHeight="170"/>
+    <SubTexture name="SkeletonArcher_attack0006" x="290" y="2" width="137" height="164" frameX="-10" frameY="-1" frameWidth="165" frameHeight="170"/>
+    <SubTexture name="SkeletonArcher_attack0007" x="2" y="480" width="117" height="156" frameX="-13" frameY="-9" frameWidth="165" frameHeight="170"/>
+    <SubTexture name="SkeletonArcher_attack0008" x="355" y="497" width="107" height="160" frameX="-23" frameY="-5" frameWidth="165" frameHeight="170"/>
+    <SubTexture name="SkeletonArcher_attack0009" x="409" y="333" width="95" height="162" frameX="-28" frameY="-3" frameWidth="165" frameHeight="170"/>
+    <SubTexture name="SkeletonArcher_attack0010" x="429" y="167" width="79" height="164" frameX="-33" frameY="-1" frameWidth="165" frameHeight="170"/>
+    <SubTexture name="SkeletonArcher_run0001" x="286" y="322" width="121" height="150" frameX="0" frameY="0" frameWidth="125" frameHeight="156"/>
+    <SubTexture name="SkeletonArcher_run0002" x="232" y="626" width="107" height="152" frameX="-15" frameY="-2" frameWidth="125" frameHeight="156"/>
+    <SubTexture name="SkeletonArcher_run0003" x="121" y="490" width="109" height="154" frameX="-12" frameY="-1" frameWidth="125" frameHeight="156"/>
+    <SubTexture name="SkeletonArcher_run0004" x="2" y="170" width="119" height="154" frameX="-2" frameY="0" frameWidth="125" frameHeight="156"/>
+    <SubTexture name="SkeletonArcher_run0005" x="286" y="168" width="123" height="152" frameX="0" frameY="0" frameWidth="125" frameHeight="156"/>
+    <SubTexture name="SkeletonArcher_run0006" x="2" y="638" width="109" height="152" frameX="-16" frameY="0" frameWidth="125" frameHeight="156"/>
+    <SubTexture name="SkeletonArcher_run0007" x="242" y="474" width="111" height="150" frameX="-12" frameY="0" frameWidth="125" frameHeight="156"/>
+    <SubTexture name="SkeletonArcher_run0008" x="2" y="326" width="119" height="152" frameX="-1" frameY="0" frameWidth="125" frameHeight="156"/>
+    <SubTexture name="SkeletonArcher_stand" x="429" y="2" width="80" height="163" frameX="0" frameY="0" frameWidth="80" frameHeight="165"/>
+</TextureAtlas>

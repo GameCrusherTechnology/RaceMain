@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<language>
+	<resourceName key="coin" value="Coin"/>
+	<resourceName key="gem" value="Gem"/>
+	<resourceName key="music" value="Music"/>
+	<resourceName key="sound" value="Sound"/>
+	<resourceName key="userId" value="ID"/>
+	<resourceName key="hero" value="Hero"/>
+	<resourceName key="harvest" value="Harvest"/>
+	<resourceName key="chapter" value="Chapter"/>
+	<resourceName key="invite" value="Invite"/>
+	<resourceName key="creat" value="Creat"/>
+	<resourceName key="attack" value="Attack"/>
+	<resourceName key="health" value="Health"/>
+	<resourceName key="attackspeed" value="AttackSpeed"/>
+	<resourceName key="creat" value="Creat"/>
+	<resourceName key="cost" value="Cost"/>
+	<resourceName key="compose" value="Compose"/>
+	<resourceName key="buyCoin" value="Buy Coin"/>
+	<resourceName key="clan" value="Clan"/>
+	<resourceName key="owned" value="Owned"/>
+	<resourceName key="clanAdmin" value="Clan Admin"/>
+	<resourceName key="members" value="Members"/>
+	<resourceName key="search" value="Search"/>
+	<resourceName key="enemy" value="Enemy"/>
+	<resourceName key="join" value="Join"/>
+	<resourceName key="killed" value="Killed"/>
+	<resourceName key="message" value="Message"/>
+	<resourceName key="Ordinary" value="Ordinary"/>
+	<resourceName key="Elite" value="Elite"/>
+	<resourceName key="reward" value="Reward"/>
+	<resourceName key="all" value="ALL"/>
+	<resourceName key="castleSoldiers" value="Barrack Soldiers"/>
+	<resourceName key="creatCharacter" value="Creat Hero"/>
+	<resourceName key="zhanshi" value="Warrior"/>
+	<resourceName key="sheshou" value="Archer"/>
+	<resourceName key="fashi" value="Wizard"/>
+	<resourceName key="defeat" value="Defeat"/>
+	<resourceName key="victory" value="Victory"/>
+	<resourceName key="check" value="Check"/>
+	<resourceName key="use" value="Use"/>
+	<resourceName key="buy" value="Buy"/>
+	<resourceName key="send" value="send"/>
+	<resourceName key="ago" value="ago"/>
+	<resourceName key="name" value="Name"/>
+	<resourceName key="level" value="Level"/>
+	<resourceName key="score" value="Score"/>
+	<resourceName key="rank" value="Ranking"/>
+	<resourceName key="recive" value="Recive"/>
+	<resourceName key="recived" value="Recived"/>
+	<resourceName key="boss" value="Boss"/>
+	
+	
+	<resourceName key="CastleScene" value="Barracks"/>
+	<resourceName key="HeroScene" value="Hero"/>
+	<resourceName key="BattleScene" value="Battle Hall"/>
+	<resourceName key="AdvenScene" value="Adventure"/>
+	<resourceName key="ClanScene" value="Clan Hall"/>
+	<resourceName key="BossScene" value="Ranking Hall"/>
+	<resourceName key="ShopScene" value="Trading Station"/>
+	<resourceName key="PackageScene" value="Warehouse"/>
+	<resourceName key="select" value="Select"/>
+	<resourceName key="Item" value="Item"/>
+	<resourceName key="soldier" value="soldier"/>
+	<resourceName key="skill" value="skill"/>
+	<resourceName key="dissolve" value="Dissolve"/>
+	<resourceName key="Edit" value="Edit"/>
+	<resourceName key="PieceStore" value="Trading Station"/>
+	<resourceName key="confirm" value="Confirm"/>
+	<resourceName key="cancel" value="Cancel"/>
+	<resourceName key="Sign out" value="Sign Out"/>
+	<resourceName key="simple" value="Simple"/>
+	<resourceName key="simpleinfo" value="Appear in circulation"/>
+	<resourceName key="senior" value="Senior"/>
+	<resourceName key="seniorinfo" value="Appear in time"/>
+	<resourceName key="improveself" value="Improve Ability"/>
+	<resourceName key="improvevip" value="Improve VIP"/>
+	<resourceName key="quickPass" value="QuickPass"/>
+	<resourceName key="toUpdate" value="To Update"/>
+	
+	<resourceName key="WarningSoldierMaxLevel" value="Soldier is Max Level!!!"/>
+	<resourceName key="WarningSkillMaxLevel" value="Skill is Max Level!!!"/>
+	<resourceName key="WarningPieceIsNotEnough" value="Piece is not enough to compose !"/>
+	<resourceName key="upgradeSuc" value="successful upgrade !"/>
+	<resourceName key="curused" value="Currently in use"/>
+	<resourceName key="curnoused" value="Currently no  use !"/>
+	<resourceName key="OwnedNothing" value="No remaining !"/>
+	<resourceName key="creatnewhero" value="Creat Hero"/>
+	<resourceName key="heroname" value="Hero Name"/>
+	<resourceName key="gotoTreasureShop" value="Goto TreasureShop"/>
+	<resourceName key="WarningrechooseHero" value="Will you switch to this hero ?"/>
+	<resourceName key="creatNameTip" value="Please give a name !"/>
+	<resourceName key="ShopTip01" value="It will cost you "/>
+	<resourceName key="Noclaninfo" value="No recent message !!!"/>
+	<resourceName key="dissolveclanTip01" value="Sure to dissolve the clan ? "/>
+	<resourceName key="EmptyClanListTip" value="There is not a clan !!!"/>
+	<resourceName key="NoNameWarningTip" value="Please give your clan one name."/>
+	<resourceName key="warningNoClanTip" value="Do not find the clan with Id :"/>
+	<resourceName key="warningGemTip" value="Not enough Gems!!!"/>
+	<resourceName key="warningCoinTip" value="Not enough Coins!!!"/>
+	<resourceName key="claninfoTip" value="Write Your Clan Message "/>
+	<resourceName key="BuyItemTip" value="Sure to buy "/>
+	<resourceName key="timeisouttip" value="Takes too long !"/>
+	<resourceName key="herodeadtip" value="Death of the hero ."/>
+	<resourceName key="nocomposetip" value="Nothing can be composed! To get more pieces."/>
+	<resourceName key="vipinfo" value="VIP can upgrade faster."/>
+	<resourceName key="updateinfo" value="Strengthen soldiers and skills."/>
+	<resourceName key="warningEnergyTip" value="Energy is not enough. To refuel ?"/>
+	<resourceName key="PaymentTip01" value="Purchase success!"/>
+	<resourceName key="warningPay01" value="The deal was not successful!"/>
+	<resourceName key="noClanTip" value="You do not have Clan. Will you join one clan now?"/>
+	<resourceName key="callHelpTip" value="recently used"/>
+	<resourceName key="comesoonTip" value="Sorry! This is still improving."/>
+	<resourceName key="GuideTip0" value="Welcome to your castle! Luna will help you know the basic operation, my hero."/>
+	<resourceName key="GuideTip1" value="Check out your package."/>
+	<resourceName key="GuideTip2" value="First to compose. It  can be a very quick upgrade."/>
+	<resourceName key="GuideTip3" value="The higher the skill level, the higher the damage."/>
+	<resourceName key="GuideTip4" value="Soldier will repeat in battle."/>
+	<resourceName key="GuideTip5" value="Click the castle to set the soldiers."/>
+	<resourceName key="GuideTip6" value="Selected soldiers will be involved in the fight."/>
+	<resourceName key="GuideTip7" value="Click back !"/>
+	<resourceName key="GuideTip8" value="Click the hero to set the hero skills."/>
+	<resourceName key="GuideTip9" value="Selected skills can be used in the fight."/>
+	<resourceName key="GuideTip10" value="Click back !"/>
+	<resourceName key="GuideTip11" value="Click the hall to fight."/>
+	<resourceName key="GuideTip12" value="Choose a battle."/>
+	<resourceName key="GuideTip13" value="Here to show your hero,skills and soldiers."/>
+	<resourceName key="GuideTip14" value="If it feels too hard ,you can ask your clan for help."/>
+	<resourceName key="GuideTip15" value="Here to show the monster data for this battle."/>
+	<resourceName key="GuideTip16" value="There are more surprises waiting for you to find out. Fighting!"/>
+	
+	<resourceName key="energyAddTotal" value="Extra Energy"/>
+	<resourceName key="tradeMoneyCount" value="Trade money limit"/>
+	<resourceName key="useEnergyCount" value="Energy limit"/>
+	<resourceName key="useCardCount" value="PassCard limit"/>
+	<resourceName key="inviteFriendCount" value="HelpCard limit"/>
+	<resourceName key="pkAddCount" value="PK limit"/>
+	
+	<resourceName key="TreasureStore" value="Treasure Store"/>
+	<resourceName key="littleCoin" value="Few Coins"/>
+	<resourceName key="middleCoin" value="Some Coins"/>
+	<resourceName key="largeCoin" value="Lots of Coins"/>
+	<resourceName key="littleGem" value="Few Gems"/>
+	<resourceName key="middleGem" value="Some Gems"/>
+	<resourceName key="largeGem" value="Lots of Gems"/>
+
+	
+	<resourceName key="attackBuff" value="Trueshot Aura"/>
+	<resourceName key="healthBuff" value="Recovery Aura"/>
+	<resourceName key="zhiyu" value="Dodge Aura"/>
+	<resourceName key="purpleball" value="Supernova"/>
+	<resourceName key="qiuyan" value="ArcaneOrb"/>
+	<resourceName key="shield" value="ArcaneBlock"/>
+	<resourceName key="longjuanfeng" value="Tornado"/>
+	<resourceName key="lanyan" value="Vortex"/>
+	<resourceName key="baoyan" value="Critical Mass"/>
+	<resourceName key="xuanfengzhan" value="Whirlwind"/>
+	<resourceName key="diyuhuo" value="Dragon's Breath"/>
+	<resourceName key="guangjian" value="Holy Shock"/>
+	<resourceName key="liehuozhan" value="Execute"/>
+	<resourceName key="shujiguang" value="Arcane Missiles"/>
+	<resourceName key="baoshe" value="Barrage"/>
+	<resourceName key="huoyanjian" value="FireArrow"/>
+	<resourceName key="jiguangjian" value="Aimed Shot"/>
+	<resourceName key="lingjiaojian" value="Lethal Shots "/>
+	<resourceName key="liuxingyu" value="Arcane Barrage"/>
+	<resourceName key="fireball" value="Fireball"/>
+	<resourceName key="zhangxinlei" value="Fulmination"/>
+	<resourceName key="huolian" value="Inferno Blast"/>
+	<resourceName key="huoyu" value="Fire Rain"/>
+	<resourceName key="icebird" value="IceBird"/>
+	<resourceName key="huimielieyan" value="Flamestrike"/>
+	<resourceName key="bingfengjian" value="Frozen State"/>
+	<resourceName key="fireBullet" value="Fire Bullet"/>
+	<resourceName key="greenBuff" value="Poisoning State"/>
+	<resourceName key="redBuff" value="Burning State"/>
+	<resourceName key="thunder" value="Shock State"/>
+	
+	<resourceName key="Spider" value="Spider"/>
+	<resourceName key="DragonWhelp" value="DragonWhelp"/>
+	<resourceName key="Minotaur" value="Minotaur"/>
+	<resourceName key="PoisonousInsect" value="PoisonousInsect"/>
+	<resourceName key="Hound" value="Hound"/>
+	<resourceName key="BlackMinotaur" value="BlackMinotaur"/>
+	<resourceName key="heianwushi" value="BlackWizard"/>
+	<resourceName key="Giant" value="Giant"/>
+	<resourceName key="Skeleton" value="Skeleton"/>
+	<resourceName key="lanmoguai" value="BlueMonster"/>
+	<resourceName key="Assassin" value="Assassin"/>
+	<resourceName key="Cyclop" value="Cyclop"/>
+	<resourceName key="Ghost" value="Ghost"/>
+	<resourceName key="SkeletonArcher" value="SkeletonArcher"/>
+	<resourceName key="HellHound" value="HellHound"/>
+	<resourceName key="HellSpider" value="HellSpider"/>
+	<resourceName key="SkeletonWarrior" value="SkeletonWarrior"/>
+	<resourceName key="ToxicMinotaur" value="ToxicMinotaur"/>
+	<resourceName key="DarkKnight" value="DarkKnight"/>
+	<resourceName key="DevilGordon" value="DevilGordon"/>
+	<resourceName key="SnowInsect" value="SnowInsect"/>
+	<resourceName key="hanbingmo" value="IceMonster"/>
+	<resourceName key="xuerenwang" value="Snowman"/>
+	<resourceName key="binghou" value="IceQueen"/>
+	<resourceName key="dunzhanshi" value="KamenRider"/>
+	<resourceName key="huangjinsheshou" value="KamenArcher"/>
+	<resourceName key="gulingzhanshi" value="ArmoredWarrior"/>
+	<resourceName key="gulingshou" value="ArmoredMonster"/>
+	<resourceName key="gulingwushi" value="ArmoredWizard"/>
+	<resourceName key="xuesezhanshi" value="ArmoredKnight"/>
+	
+	<resourceName key="littleEnergyPotion" value="Little Energy"/>
+	<resourceName key="littleEnergyPotionMes" value="ArmoredKnight"/>
+	<resourceName key="largeEnergyPotion" value="Large Energy"/>
+	<resourceName key="largeEnergyPotionMes" value="ArmoredKnight"/>
+	<resourceName key="callHelpCard" value="ArmoredKnight"/>
+	<resourceName key="quickPassCard" value="PassCard"/>
+	
+</language>
